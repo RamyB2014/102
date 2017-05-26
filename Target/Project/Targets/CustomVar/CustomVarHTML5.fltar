@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/Master.fltoc">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Variables>
+    <Variable
+      Name="subVarFolder/ConditionedOutNewVariables/MultiDefVar">Multi-definition variable definition 2</Variable>
+    <Variable
+      Name="subVarFolder/ConditionedOutNewVariables/VarDefFlattened">Custom Flattened variable definition &gt; [[[Undefined variable NewVariables.FlattenedDefVar]]]</Variable>
+    <Variable
+      Name="subVarFolder/ConditionedOutNewVariables/VarDefNotFlattned">Custom Unflattened variable definition &gt; [[[Undefined variable NewVariables.UnflattenedDef.Var.]]]</Variable>
+    <Variable
+      Name="subVarFolder/NewVariables/MultiDefVar">Multi-definition variable definition 2</Variable>
+    <Variable
+      Name="subVarFolder/NewVariables/Date"
+      Type="DateTimeProjectSaved">"Project Save" hh:mm tt - MM/dd/yyyy</Variable>
+    <Variable
+      Name="subVarFolder/NewVariables/VarDefFlattened">Flattened variable definition &gt; [[[Undefined variable NewVariables.FlattenedDefVar]]] Custom</Variable>
+    <Variable
+      Name="subVarFolder/NewVariables/VarDefNotFlattned">Unflattened variable definition &gt; [[[Undefined variable NewVariables.UnflattenedDef.Var.] Custom </Variable>
+  </Variables>
+</CatapultTarget>

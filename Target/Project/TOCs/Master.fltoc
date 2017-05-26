@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="ConditionedTopic"
+    Link="/Content/ConditionedTopic.htm" />
+  <TocEntry
+    Title="ConditionedContent"
+    Link="/Content/ConditionedContent.htm"></TocEntry>
+  <TocEntry
+    Title="flagLink - HTML5 target (no conditions)" />
+</CatapultToc>

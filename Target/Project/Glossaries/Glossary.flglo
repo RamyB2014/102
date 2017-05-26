@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry>
+    <Terms>
+      <Term>My Conditioned Term</Term>
+    </Terms>
+    <Definition
+      Link="">This should be listed for translation</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

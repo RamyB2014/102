@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar;es" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlDatabaseRoot="C:\Users\rallahwerdy\Documents\My Translated Projects\NewProject152.liprjf" SourceControlDatabase="C:\Users\rallahwerdy\Documents\My Translated Projects\NewProject152.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="a6c3d10d-05c7-470d-bcf4-98dc5ae9c255">
+    <ProjectFile Source="Target/Conditions.flprj" Target="Target/Conditions.flprj" />
+</LingoProject>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="79" MadCap:lastWidth="1214" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <p>This is a snippet with conditioned variables: </p>
+        <p><MadCap:variable name="subVarFolder/ConditionedOutSet.ReplaceInTarget" />
+        </p>
+        <p><MadCap:variable name="subVarFolder/ConditionedOutSet.NewDateTimeVariable" />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="MadCap HTML5 Target" Type="WebHelp2" Destinations="" GlossaryTermConversion="marked" MasterToc="/Project/TOCs/Master.fltoc">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" />
+    <Variables>
+        <Variable Name="subVarFolder/ConditionedOutNewVariables/MultiDefVar">砻קยด1ตว融</Variable>
+        <Variable Name="subVarFolder/ConditionedOutNewVariables/VarDefFlattened">砻קยด2ตว融</Variable>
+        <Variable Name="subVarFolder/ConditionedOutNewVariables/VarDefNotFlattned">砻קยด3ตว融</Variable>
+        <Variable Name="subVarFolder/NewVariables/MultiDefVar">砻קยด4ตว融</Variable>
+        <Variable Name="subVarFolder/NewVariables/Date" Type="DateTimeProjectSaved">砻קยด5ตว融</Variable>
+        <Variable Name="subVarFolder/NewVariables/VarDefFlattened">砻קยด6ตว融</Variable>
+        <Variable Name="subVarFolder/NewVariables/VarDefNotFlattned">砻קยด7ตว融</Variable>
+    </Variables>
+</CatapultTarget>
